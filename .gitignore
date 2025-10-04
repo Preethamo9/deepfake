@@ -4,3 +4,7 @@ __pycache__/
 *.pyc
 *.log
 training.ipynb
+count_files.py
+
+data_processed
+best_image_model.pth
